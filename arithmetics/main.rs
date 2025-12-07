@@ -1,0 +1,16 @@
+fn main () {
+  let x = 9;
+  let y = 3;
+
+  let add = x + y;
+  let sub = x - y;
+  let mul = x * y;
+  let div = x / y;
+  let modu = x % (y +1);
+
+  println!("{x} + {y} = {add}");
+  println!("{x} - {y} = {sub}");
+  println!("{x} * {y} = {mul}");
+  println!("{x} / {y} = {div}");
+  println!("{x} % {} = {modu}", y+1);
+}
