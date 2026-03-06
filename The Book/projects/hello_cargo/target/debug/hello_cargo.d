@@ -1,1 +1,0 @@
-/home/censera/Documents/Development/Rust/Rust-Playground/The\ Book/projects/hello_cargo/target/debug/hello_cargo: /home/censera/Documents/Development/Rust/Rust-Playground/The\ Book/projects/hello_cargo/src/main.rs

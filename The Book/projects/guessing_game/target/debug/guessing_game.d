@@ -1,1 +1,0 @@
-/home/censera/Documents/Development/Rust/Rust-Playground/The\ Book/projects/guessing_game/target/debug/guessing_game: /home/censera/Documents/Development/Rust/Rust-Playground/The\ Book/projects/guessing_game/src/main.rs
